@@ -1,0 +1,30 @@
+/* add your CSS here */
+#card-size {
+  width: 300px;
+  padding: 0 10px 10px 10px;
+  border: 1px solid #ccc;
+  background-color: #d6ebf2;
+}
+#name {
+  font-family: 'Bevan', cursive;
+  font-size: 1em;
+}
+.fun-fact {
+  font-style: italic;
+}
+.info {
+  border: 1px solid #ccc;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+.info p,
+.info ul {
+  font-size: 0.8em;
+}
+.label {
+  font-weight: bold;
+}
+ul {
+  list-style:none;
+  padding-left:0;
+}​
